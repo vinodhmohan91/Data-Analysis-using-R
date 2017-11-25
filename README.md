@@ -1,5 +1,5 @@
-# GalaxyDataAnalysis
-Course project of "Getting and Cleaning data" course in Coursera
+# Data Analysis using R
+Course project to analyze and clean a dataset using R in Coursera
 ## Introduction
 This project is an analysis of the "Human Activity Recognition Using Smartphones Dataset" downloaded from the https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 The description of the dataset can be found here - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
